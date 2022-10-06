@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextWords">
+        <item name="android:fontFamily">@font/comic_neue_light</item>
+    </style>
+</resources>
